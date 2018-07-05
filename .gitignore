@@ -12,6 +12,7 @@
 
 # Package Files #
 *.jar
+!ConsoleGA.jar
 *.war
 *.nar
 *.ear
