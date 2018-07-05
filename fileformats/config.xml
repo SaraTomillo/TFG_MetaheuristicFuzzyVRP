@@ -1,0 +1,17 @@
+<configuration>
+	<execution-id></execution-id>
+	<populationSize></populationSize>
+	<maxIterations></maxIterations>
+	<probabilities>
+		<crossoverProbability></crossoverProbability>
+		<mutationProbability></mutationProbability>
+	</probabilities>
+	<randomSeed></randomSeed>
+	<operators>
+		<creationOperator></creationOperator>
+		<selectionOperator></selectionOperator>
+		<crossoverOperator></crossoverOperator>
+		<mutationOperator></mutationOperator>
+		<replacementOperator></replacementOperator>
+	</operators>
+</configuration>

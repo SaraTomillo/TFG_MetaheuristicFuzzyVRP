@@ -1,0 +1,13 @@
+n Q
+id q
+
+(c1,c2,c3) (c1,c2,c3) ...
+(c1,c2,c3) (c1,c2,c3) ...
+...
+
+
+n = number of costumers
+Q = maximum load of vehicle
+id = client id
+(c1,c2,c3) = tfn cost from i to j
+q = demand

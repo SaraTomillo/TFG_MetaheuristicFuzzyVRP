@@ -1,0 +1,4 @@
+ID;PopulationSize;MaxGenerations;RandomSeed;Creation;Selection;Crossover;Mutation;Replacement;P(Crossover);P(Mutation)
+0;100;1000;10;RandomPopulation;RandomPairs;OX;Swap;TournamentPCNoRepetition;0.8;0.05
+1;200;500;20;RandomPopulation;Tournament;LOX;SwapSubstring;TournamentPC;0.9;0.1
+2;500;2500;30;RandomPopulation;RandomPairs;POS;Insertion;Elitism;1.0;0.2

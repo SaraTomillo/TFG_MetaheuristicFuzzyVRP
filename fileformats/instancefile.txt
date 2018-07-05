@@ -1,0 +1,10 @@
+n Q
+depot coordinates
+x y q
+
+
+n = number of costumers
+Q = maximum load of vehicle
+x = x coordinate
+y = y coordinate
+q = demand

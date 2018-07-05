@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="project:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af108c19-53a7-4a60-b508-c4c40fea62ac" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../document/anexos/diagrams/testdot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../document/anexos/diagrams/testdot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../jar/ConsoleGANoFuzzy.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../jar/kelly01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../jar/results/kelly01-solution-13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../jar/results/kelly01-solution-iterations-13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/project_jar/ConsoleGA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/configurations/config.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/configurations/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/estructura.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly-pbs.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly-solns.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/instances/kelly20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly01/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly02/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly03/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly04/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly05/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly06/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly07/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly08/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly09/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly10/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly11/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly12/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly13/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly14/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly15/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly16/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly17/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly18/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly19/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/files/results/kelly20/solution-iterations-9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly01-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly01-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly01-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly02-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly02-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly02-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly03-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly03-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly03-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly04-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly04-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly04-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly05-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly05-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly05-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly06-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly06-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly06-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly07-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly07-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly07-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly08-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly08-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly08-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly09-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly09-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly09-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly10-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly10-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly10-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly11-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly11-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly11-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly12-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly12-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly12-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly13-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly13-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly13-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly14-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly14-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly14-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly15-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly15-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly15-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly16-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly16-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly16-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly17-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly17-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly17-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly18-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly18-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly18-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly19-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly19-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly19-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly20-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly20-solution-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsFuzzy/kelly20-solution-iterations-21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly01-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly01-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly01-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly02-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly02-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly02-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly03-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly03-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly03-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly04-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly04-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly04-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly05-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly05-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly05-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly06-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly06-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly06-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly07-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly07-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly07-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly08-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly08-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly08-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly09-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly09-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly09-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly10-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly10-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly10-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly11-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly11-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly11-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly12-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly12-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly12-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly13-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly13-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly13-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly14-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly14-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly14-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly15-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly15-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly15-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly16-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly16-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly16-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly17-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly17-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly17-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly18-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly18-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly18-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly19-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly19-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly19-solution-iterations-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly20-fuzzy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly20-solution-20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../resultsNoFuzzy/kelly20-solution-iterations-20.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../document/anexos/Planning.mpp" afterPath="$PROJECT_DIR$/../document/anexos/Planning.mpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../document/latex/memoria.tex" afterPath="$PROJECT_DIR$/../document/latex/memoria.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../document/resultados-estudio.xlsx" afterPath="$PROJECT_DIR$/../document/resultados-estudio.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jar/ConsoleGA.jar" afterPath="$PROJECT_DIR$/../jar/ConsoleGA.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jar/config.xml" afterPath="$PROJECT_DIR$/../jar/config.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/project$Main.coverage" NAME="Main Coverage Results" MODIFIED="1519385465076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\0</find>
+      <find>MAX_VALUE</find>
+      <find>evaluate</find>
+      <find>bestInd</find>
+      <find>split</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/parsers/instances/InstanceGenerator.java" />
+        <option value="$PROJECT_DIR$/src/ga/selection/Tournament.java" />
+        <option value="$PROJECT_DIR$/src/ga/selection/RandomPairs.java" />
+        <option value="$PROJECT_DIR$/src/ga/replacement/TournamentPC.java" />
+        <option value="$PROJECT_DIR$/src/vpr/Population.java" />
+        <option value="$PROJECT_DIR$/src/ga/replacement/TournamentPCNoRepetition.java" />
+        <option value="$PROJECT_DIR$/src/parsers/configuration/XMLConfigurationParser.java" />
+        <option value="$PROJECT_DIR$/src/files/config.xml" />
+        <option value="$PROJECT_DIR$/src/ga/mutation/SwapSubstring.java" />
+        <option value="$PROJECT_DIR$/src/files/configurations/configuraciones-estudio.csv" />
+        <option value="$PROJECT_DIR$/src/ga/crossover/PositionBasedCrossover.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/parsers/instances/InstanceReader.java" />
+        <option value="$PROJECT_DIR$/src/parsers/configuration/CSVConfigurationParser.java" />
+        <option value="$PROJECT_DIR$/src/parsers/results/CSVResultWriter.java" />
+        <option value="$PROJECT_DIR$/src/ga/GeneticAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/ga/replacement/TournamentPC.java" />
+        <option value="$PROJECT_DIR$/src/main/ConsoleApp.java" />
+        <option value="$PROJECT_DIR$/src/main/ga/creation/RandomPopulation.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/creation/RandomPopulationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/ga/selection/RandomPairs.java" />
+        <option value="$PROJECT_DIR$/src/main/ga/selection/Tournament.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/selection/RandomPairsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/selection/TournamentTest.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/crossover/LinearOrderBasedCrossover.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/crossover/PositionBasedCrossover.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/mutation/Insertion.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/mutation/Swap.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/crossover/LinearOrderBasedCrossoverTest.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/crossover/OrderBasedCrossoverTest.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/crossover/PositionBasedCrossoverTest.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/mutation/SwapSubstring.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/mutation/InsertionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/mutation/SwapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/ga/mutation/SwapSubstring.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/mutation/SwapSubstringTest.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/replacement/ElitismTest.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/replacement/TournamentPC.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/replacement/TournamentPCNoRepetition.java" />
+        <option value="$PROJECT_DIR$/src/test/AllTests.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/replacement/TournamentPCNoRepetitionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/ga/replacement/TournamentPCTest.java" />
+        <option value="$PROJECT_DIR$/src/main/parsers/configuration/XMLConfigurationParser.java" />
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/src/main/parsers/configuration/CSVConfigurationParser.java" />
+        <option value="$PROJECT_DIR$/src/main/parsers/results/CSVResultWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/vpr/Individual.java" />
+        <option value="$PROJECT_DIR$/src/main/ga/GeneticAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/parsers/instances/InstanceReader.java" />
+        <option value="$PROJECT_DIR$/src/main/tfn/TFN.java" />
+        <option value="$PROJECT_DIR$/src/main/parsers/instances/InstanceFuzzifier.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="672" />
+    <option name="y" value="-26" />
+    <option name="width" value="980" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="project" type="cbb8eebc:String" user="project" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="project" type="cbb8eebc:String" user="project" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="project" type="cbb8eebc:String" user="project" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="vpr" type="cbb8eebc:String" user="vpr" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="instances" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
+              <item name="results" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="tfn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="58d84e3e:PackageViewProjectNode" />
+              <item name="project" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="project" type="58d84e3e:PackageViewProjectNode" />
+              <item name="project" type="616d4139:PackageViewModuleNode" />
+              <item name="main" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sara\Desktop\TFG\project" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ga.mutation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sara\Desktop\TFG\project\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ConsoleApp">
+    <configuration name="AllTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="project" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.AllTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ConsoleApp" type="Application" factoryName="Application" singleton="true" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="main.ConsoleApp" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="-o kelly01 config.xml" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="project" />
+      <envs />
+    </configuration>
+    <configuration name="RandomPopulationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.ga.creation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="project" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.ga.creation" />
+      <option name="MAIN_CLASS_NAME" value="test.ga.creation.RandomPopulationTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.ConsoleApp" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.RandomPopulationTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AllTests" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.ConsoleApp" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AllTests" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RandomPopulationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af108c19-53a7-4a60-b508-c4c40fea62ac" name="Default" comment="" />
+      <created>1519376572911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519376572911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AllTests - 2018.07.02 at 19h 23m 25s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2018.07.02 at 19h 36m 56s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2018.07.02 at 19h 37m 14s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2018.07.02 at 19h 40m 59s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2018.07.02 at 19h 41m 29s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2018.07.02 at 19h 42m 20s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2018.07.02 at 19h 42m 42s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2018.07.02 at 19h 43m 07s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2018.07.02 at 19h 43m 31s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2018.07.02 at 19h 43m 44s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3266745" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39012927" sideWeight="0.50216216" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39012927" sideWeight="0.49783784" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2935135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51116335" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918918" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UML design tool window" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5632054" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32731378" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33182845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2046875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="132" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/parsers/instances/InstanceReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/parsers/results/CSVResultWriter.java" />
+    <entry file="file://$PROJECT_DIR$/src/ga/GeneticAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/ga/creation/CreationOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/crossover/CrossoverOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/crossover/LinearOrderBasedCrossover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1015">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/crossover/PositionBasedCrossover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/mutation/MutationOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/replacement/ReplacementOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/replacement/Elitism.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/replacement/TournamentPCNoRepetition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/results/ResultWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/vpr/Population.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/vpr/Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/charts/EvolutionChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/creation/RandomPopulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/creation/RandomPopulationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/selection/SelectionOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/selection/Tournament.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="35" column="56" lean-forward="true" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/selection/RandomPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/crossover/OrderBasedCrossover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/crossover/OrderBasedCrossoverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/crossover/LinearOrderBasedCrossoverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/mutation/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/mutation/Swap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/mutation/SwapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/mutation/SwapSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/mutation/SwapSubstringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/crossover/PositionBasedCrossoverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/mutation/InsertionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/selection/RandomPairsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/AllTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="65" lean-forward="false" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/replacement/TournamentPCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="44" column="55" lean-forward="false" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/replacement/TournamentPCNoRepetitionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="69" column="44" lean-forward="false" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/replacement/TournamentPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/replacement/ElitismTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="56" column="5" lean-forward="false" selection-start-line="50" selection-start-column="3" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ga/selection/TournamentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ConsoleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="70" column="40" lean-forward="false" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/configuration/CSVConfigurationParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1875">
+          <caret line="85" column="21" lean-forward="true" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/configuration/XMLConfigurationParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="68" column="38" lean-forward="false" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/results/CSVResultWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="530" column="18" lean-forward="false" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/vpr/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ga/GeneticAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="92" column="65" lean-forward="false" selection-start-line="92" selection-start-column="65" selection-end-line="92" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/tfn/TFN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/instances/InstanceReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/configuration/ConfigurationParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/instances/InstanceFuzzifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="59" column="36" lean-forward="true" selection-start-line="59" selection-start-column="36" selection-end-line="60" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>project:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>xchart-3.5.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
